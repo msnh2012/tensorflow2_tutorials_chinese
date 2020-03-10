@@ -1,8 +1,17 @@
 # tensorflow2_tutorials_chinese
 
-tensorflow2中文教程，持续更新（一般每周更新一次）
+tensorflow2中文教程，持续更新（不定期更新）
+
+
+
+tensorflow 2.0 正式版已上线， 后面将持续根据TensorFlow2的相关教程和学习资料。
+
+最新tensorflow教程和相关资源，请关注微信公众号：DoitNLP，
+后面我会在DoitNLP上，持续更新深度学习、NLP、Tensorflow的相关教程和前沿资讯，它将成为我们一起学习tensorflow的大本营。
+
 
 当前tensorflow版本：tensorflow2.0
+
 
 
 
@@ -78,3 +87,4 @@ TensorFlow 2.0 安装
 
 更多TensorFlow 2.0 入门教程请持续关注专栏：[Tensorflow2教程](https://zhuanlan.zhihu.com/c_1091021863043624960)
 
+深度学习入门书籍和资源推荐：https://zhuanlan.zhihu.com/p/65371424
